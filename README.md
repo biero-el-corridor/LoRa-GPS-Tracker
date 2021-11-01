@@ -4,7 +4,7 @@
 
 
 <p align="center">
-    <img src="/pictures/logo.png">
+    <img src="/pictures/logo2.png">
 </p>
 
 <p class="text-center"> 
