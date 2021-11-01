@@ -4,7 +4,7 @@
 
 
 <p align="center">
-    <img src="/pictures/logo2.png">
+    <img src="/pictures/logo.png">
 </p>
 
 <p class="text-center"> 
@@ -12,19 +12,19 @@
 </p>
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+ ## About The Project
 The goal of the project is to creat a miniatirised GPS tracker Powered by LoRa.
 
 this specific type of tracker is for spinning purpose du to the range of LoRa int this project the range of the Tracker is up to 850 meter in urban environement, and up to 1Km in rural environement. 
 
-##Software an d librairie
+ ## Software an d librairie
 * [Arduino IDE](https://www.arduino.cc/en/software)
 * [python 3.7](https://www.python.org/downloads/release/python-370/)
     * [PySerial](https://pypi.org/project/pyserial/)
     * [TKinter](https://docs.python.org/3/library/tkinter.html)
     * [Folium](https://python-visualization.github.io/folium/)
 
-##Hardware equipement
+ ## Hardware equipement
 this spécific project have hardware requirement
 exemple of cable connexions will be presenter further down
 * [Arduino Uno](https://www.amazon.fr/Arduino-A000066-M%C3%A9moire-flash-32/dp/B008GRTSV6/ref=sr_1_5?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2FC5KF4BGRRFF&dchild=1&keywords=arduino+uno&qid=1635787356&sprefix=arduino+uno+%2Caps%2C260&sr=8-5)
@@ -33,11 +33,24 @@ exemple of cable connexions will be presenter further down
 
 A better versions is curently on wor for une a Arduino Pro Mini 3,5V to replace the current arduino Uno
 
-##Théorical view of the project
+ ## Théorical view of the project
+
+
+this is a use case représentations of the tracker 
+
+<p align="center">
+    <img src="/pictures/Use-Case.png">
+</p>
 
 picture of use case 
 
-##thecnical view of the project
+ ## thecnical view of the project
 
 picture of thecnical connexions
+
+<p align="center">
+    <img src="/pictures/Technical-connexions.png">
+</p>
+
+
 
