@@ -39,7 +39,7 @@ A better versions is curently on wor for une a Arduino Pro Mini 3,5V to replace 
 this is a use case représentations of the tracker 
 
 <p align="center">
-    <img src="/pictures/Use-Case.png">
+    <img src="/pictures/Use-case.png">
 </p>
 
 picture of use case 
@@ -52,5 +52,33 @@ picture of thecnical connexions
     <img src="/pictures/Technical-connexions.png">
 </p>
 
+ ## Software demonstrations 
+ 
+ https://youtu.be/AaIU6Et6E2k
+ 
+ ## Hardware Versions 1 (Arduino Uno)
+ 
+ <p align="center">
+    <img src="/pictures/case.jpg">
+</p>
+
+ 
+ ## Hardware Versions 1 (Arduino Pro Mini 3.5V)
+ 
+ shemas
+ <p align="center">
+    <img src="/pictures/Technical-connexions.png">
+</p>
+
+Versions 2 so far 
+
+<p align="center">
+    <img src="/pictures/midlle working.jpg">
+</p>
+
+
+ 
+ 
+ 
 
 
