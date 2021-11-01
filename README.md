@@ -4,10 +4,12 @@
 
 
 <p align="center">
-    <img src="https://framasoft.org/nav/img/logo.png">
+    <img src="/pictures/logo.png">
 </p>
 
-<p class="text-center"> GPS Tracker powered by LoRa</p>
+<p class="text-center"> 
+    GPS Tracker powered by LoRa
+</p>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
