@@ -2,7 +2,10 @@
 |---------        |------------|
 |biero-el-coridor |  GPLv3     |
 
-![projectlogo](https://framasoft.org/nav/img/logo.png?style=centerme)
+
+<p align="center">
+    <img src="https://framasoft.org/nav/img/logo.png">
+</p>
 
 <p class="text-center"> GPS Tracker powered by LoRa</p>
 
