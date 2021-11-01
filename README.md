@@ -67,7 +67,7 @@ picture of thecnical connexions
  
  shemas
  <p align="center">
-    <img src="/pictures/Technical-connexions.png">
+    <img src="/pictures/shemas batterie.png">
 </p>
 
 Versions 2 so far 
